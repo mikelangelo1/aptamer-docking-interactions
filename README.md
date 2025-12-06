@@ -1,4 +1,4 @@
-# Protein-DNA Docking Analysis
+# Protein-DNA/RNA Docking Analysis
 
 A comprehensive Python pipeline for analyzing protein-DNA/RNA aptamer interactions from HADDOCK docking results using ProLIF and MDAnalysis.
 
